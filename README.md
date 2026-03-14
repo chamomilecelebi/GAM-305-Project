@@ -20,3 +20,7 @@ effect)
 
 ## Task Board
 ### [Kanban Using Taiga](https://tree.taiga.io/project/chamomilecelebi-gam-305-project/kanban)
+
+## Contributers
+- Jordan Marine
+
