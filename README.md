@@ -5,12 +5,12 @@
 ## Level Elements:
 ### Required (all):
 - Starting Location: This is where the player will spawn at the beginning.
-- Level Goal: This is the ìfinish lineî or ìgoalî of the level.
+- Level Goal: This is the ‚Äúfinish line‚Äù or ‚Äúgoal‚Äù of the level.
 
 ### Additional Elements (choose 4 tasks):
 - Player Pickups (Health, power-ups, etc.) (at least 3 unique types, can be placed scattered around
 level)
-- Collectables (These are collectables for a power-up. For example, the player mayÖllect 10 keys before exiting the level.)
+- Collectables (These are collectables for a power-up. For example, the player may‚Ä¶llect 10 keys before exiting the level.)
 - Enemies (Moving) (2 types, can be moving on platforms or jumping around)
 - Enemies (Flying) (2 types, can fly in a pattern around the area)
 - Obstacles (Stationary) (4 unique types; scattered about the level. Will harm player or cause an
@@ -24,3 +24,4 @@ effect)
 ## Contributers
 - Jordan Marine
 - Joshua Scarpa
+- Johnny Hernandez
