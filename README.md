@@ -23,4 +23,4 @@ effect)
 
 ## Contributers
 - Jordan Marine
-
+- Joshua Scarpa
