@@ -25,3 +25,4 @@ effect)
 - Jordan Marine
 - Joshua Scarpa
 - Johnny Hernandez
+= Chris Morano
