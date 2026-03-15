@@ -1,6 +1,6 @@
 # Project: Scenario 2: 2D Sidescroller
 
-### **Meetings on Discord (TBD) weekly on TBD.**
+### **Meetings on Discord weekly.**
 
 ## Level Elements:
 ### Required (all):
