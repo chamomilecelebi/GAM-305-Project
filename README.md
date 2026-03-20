@@ -19,7 +19,7 @@ effect)
 ## Task Board
 ### [Kanban Using Taiga](https://tree.taiga.io/project/chamomilecelebi-gam-305-project/kanban)
 
-## QA and Test Plan
+## Module Three Project Log - Team Development: QA and Testing Plan
 - Makes use of the "Ready for Test" status in the Kanban.
 - Discuss testing during weekly meetings to ensure testing is done in a timely manner.
 - Bugs reported on the comments for the associated task on the Kanban.
