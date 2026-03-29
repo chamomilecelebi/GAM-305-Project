@@ -1,3 +1,16 @@
-uses: ppremk/lfs-warning@v3.2
-with:
-  filesizelimit: 10MB
+on:
+  push:
+    branches:
+      - ${{ github.event.repository.default_branch }}
+  pull_request:
+    branches:
+      - ${{ github.event.repository.default_branch }}
+
+jobs:
+  lfs-warning:
+    runs-on: ubuntu-latest
+    steps:
+      - name: LFS Warning
+        uses: ppremk/lfs-warning@v3.2
+        with:
+          filesizelimit: 10MB
