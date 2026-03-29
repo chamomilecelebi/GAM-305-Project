@@ -1,0 +1,3 @@
+uses: ppremk/lfs-warning@v3.2
+with:
+  filesizelimit: 10MB
