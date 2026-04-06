@@ -32,6 +32,13 @@ effect)
 - Kanbans were especially useful for keeping track of tasks. This is due to their visual nature and the way they made workload distribution and bottlenecks immediately clear to the whole team.
 - The team’s initial analysis of the game design document helped clarify the scope and complexity of the project, which in turn guided the selection of tools and techniques that best supported organized development and communication.
 
+## Module Five Project Log - Team Reflection
+- Using the Kanban worked really well for organizing who was working on what and what stage of the process the task was in.
+- We had a lot of problems with git conflicts.
+- To mitigate the issues with collboration using git, we setup a channel in our Discord server called #lock-files where we let everyone know what files we were working on. This made sure that we could still work async while not touching the same files twice and causing conflicts.
+- The biggest thing we would do different if we were to start on this project again is to not use git. Based on online research, things like svn and perforce are much more suited for Unreal Engine 5's binary files.
+- As mentioned prior, using git was a huge headache.
+
 ## Contributers
 - Jordan Marine
 - Joshua Scarpa
