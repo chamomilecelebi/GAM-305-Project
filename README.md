@@ -45,6 +45,7 @@ effect)
 - The team carried forward the effective Kanban workflow from earlier stages but added a Discord #lock-files channel to address Git collaboration problems identified in the previous evaluation.
 - Instead of Git, the team would use a version control system better suited for Unreal Engine’s binary files, such as Perforce or SVN.
 - Git was not helpful because its design for text-based files led to constant merge conflicts with Unreal Engine’s binary assets, slowing down development significantly.
+- Another thing that was added and was not mentioned in prior reflections was the use of branch protection and merge rules through GitHub to ensure that all pull requests and changes were reviewed before merging. Emergency additions or fixes could be bypassed by the team lead (Jordan) if the need arises or to add small things like updating the README with the Team Reflections.
 
 ## Contributers
 - Jordan Marine
