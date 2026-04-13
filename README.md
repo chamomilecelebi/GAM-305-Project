@@ -39,6 +39,13 @@ effect)
 - The biggest thing we would do different if we were to start on this project again is to not use git. Based on online research, things like svn and perforce are much more suited for Unreal Engine 5's binary files.
 - As mentioned prior, using git was a huge headache.
 
+## Module Six Project Log - Team Reflection
+- The team found that using Kanban for tracking tasks and workload distribution worked very well, and reviewing pull requests helped identify bugs while maintaining momentum.
+- Using Git caused major headaches due to frequent conflicts with Unreal Engine 5’s binary files, despite trying to mitigate issues with a file-locking system in Discord.
+- The team carried forward the effective Kanban workflow from earlier stages but added a Discord #lock-files channel to address Git collaboration problems identified in the previous evaluation.
+- Instead of Git, the team would use a version control system better suited for Unreal Engine’s binary files, such as Perforce or SVN.
+- Git was not helpful because its design for text-based files led to constant merge conflicts with Unreal Engine’s binary assets, slowing down development significantly.
+
 ## Contributers
 - Jordan Marine
 - Joshua Scarpa
